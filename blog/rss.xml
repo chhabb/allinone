@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>allinone Blog</title>
+        <link>https://chhabb.github.io/blog</link>
+        <description>allinone Blog</description>
+        <lastBuildDate>Mon, 23 Sep 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[思维与体验]]></title>
+            <link>https://chhabb.github.io/blog/2024/09/23/hello</link>
+            <guid>https://chhabb.github.io/blog/2024/09/23/hello</guid>
+            <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[思维与体验的矛盾，常常也是想象与现实的矛盾。想象容易和全能自恋结合，认为事情应该立即、马上、完美得到实现，而现实则意味着，你要尊重事情的规律，找到实现目标的一个又一个小台阶。]]></description>
+            <content:encoded><![CDATA[<p>思维与体验的矛盾，常常也是想象与现实的矛盾。想象容易和全能自恋结合，认为事情应该立即、马上、完美得到实现，而现实则意味着，你要尊重事情的规律，找到实现目标的一个又一个小台阶。</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

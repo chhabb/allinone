@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://chhabb.github.io/blog</id>
+    <title>allinone Blog</title>
+    <updated>2024-09-23T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://chhabb.github.io/blog"/>
+    <subtitle>allinone Blog</subtitle>
+    <icon>https://chhabb.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[思维与体验]]></title>
+        <id>https://chhabb.github.io/blog/2024/09/23/hello</id>
+        <link href="https://chhabb.github.io/blog/2024/09/23/hello"/>
+        <updated>2024-09-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[思维与体验的矛盾，常常也是想象与现实的矛盾。想象容易和全能自恋结合，认为事情应该立即、马上、完美得到实现，而现实则意味着，你要尊重事情的规律，找到实现目标的一个又一个小台阶。]]></summary>
+        <content type="html"><![CDATA[<p>思维与体验的矛盾，常常也是想象与现实的矛盾。想象容易和全能自恋结合，认为事情应该立即、马上、完美得到实现，而现实则意味着，你要尊重事情的规律，找到实现目标的一个又一个小台阶。</p>]]></content>
+    </entry>
+</feed>
