@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkallinone=self.webpackChunkallinone||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u601d\u7ef4\u4e0e\u4f53\u9a8c","permalink":"/allinone/blog/2024/09/23/hello","unlisted":false,"date":"2024-09-23T00:00:00.000Z"}]}')}}]);
