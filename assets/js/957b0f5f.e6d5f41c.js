@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkallinone=self.webpackChunkallinone||[]).push([[409],{2294:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/allinone/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
