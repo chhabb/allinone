@@ -99,6 +99,18 @@ const config = {
             position: 'left',
             label: 'note',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'koaSidebar',
+            position: 'left',
+            label: 'koa',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: '阮一峰Sidebar',
+            position: 'left',
+            label: '阮一峰',
+          },
         ],
       },
       prism: {
